@@ -65,13 +65,5 @@
     <Compile Include="Settings.cs" />
     <Compile Include="Suit.cs" />
   </ItemGroup>
-  <ItemGroup>
-    <None Include="mod.yaml">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </None>
-    <None Include="mod_info.yaml">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </None>
-  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
