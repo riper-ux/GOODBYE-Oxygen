@@ -45,22 +45,6 @@ public static class Pathes
         }
     }
 
-    [HarmonyPatch(typeof(SuitSuffocationMonitor), "InitializeStates")]
-    public static class SuitSuffocationMonitor_Patch
-    {
-        public static bool Prefix(ref StateMachine.BaseState default_state, SuitSuffocationMonitor __instance)
-        {
-            if (IsOxygenConsumptionDisabled())
-            {
-                // Переключаем состояние на "удовлетворено"
-                default_state = __instance.satisfied;
-                __instance.root.TagTransition(GameTags.Minions.Models.Standard, __instance.satisfied, false);
-                return false; // Останавливаем стандартную инициализацию
-            }
-            return true;
-        }
-    }
-
     [HarmonyPatch(typeof(OxygenBreather), "Sim200ms")]
     public static class OxygenBreather_Sim200ms_Patch
     {

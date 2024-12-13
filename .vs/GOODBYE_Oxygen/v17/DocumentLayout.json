@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\PC\\Documents\\GitHub\\GOODBYE_Oxygen\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{10DC3224-84D9-44A2-A747-B9943E67C412}|GOODBYE_Oxygen\\OXYGEN.csproj|c:\\users\\pc\\documents\\github\\goodbye_oxygen\\goodbye_oxygen\\settings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{10DC3224-84D9-44A2-A747-B9943E67C412}|GOODBYE_Oxygen\\OXYGEN.csproj|solutionrelative:goodbye_oxygen\\settings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{10DC3224-84D9-44A2-A747-B9943E67C412}|GOODBYE_Oxygen\\OXYGEN.csproj|C:\\Users\\PC\\Documents\\GitHub\\GOODBYE_Oxygen\\goodbye_oxygen\\patches.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{10DC3224-84D9-44A2-A747-B9943E67C412}|GOODBYE_Oxygen\\OXYGEN.csproj|solutionrelative:goodbye_oxygen\\patches.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10DC3224-84D9-44A2-A747-B9943E67C412}|GOODBYE_Oxygen\\OXYGEN.csproj|c:\\users\\pc\\documents\\github\\goodbye_oxygen\\goodbye_oxygen\\settings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10DC3224-84D9-44A2-A747-B9943E67C412}|GOODBYE_Oxygen\\OXYGEN.csproj|solutionrelative:goodbye_oxygen\\settings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{10DC3224-84D9-44A2-A747-B9943E67C412}|GOODBYE_Oxygen\\OXYGEN.csproj|C:\\Users\\PC\\Documents\\GitHub\\GOODBYE_Oxygen\\goodbye_oxygen\\suit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -22,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
@@ -32,27 +32,27 @@
               "RelativeDocumentMoniker": "GOODBYE_Oxygen\\Suit.cs",
               "ToolTip": "C:\\Users\\PC\\Documents\\GitHub\\GOODBYE_Oxygen\\GOODBYE_Oxygen\\Suit.cs",
               "RelativeToolTip": "GOODBYE_Oxygen\\Suit.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAADEAAAAAAAAAAAAcwAQAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-10T17:02:11.005Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Patches.cs",
               "DocumentMoniker": "C:\\Users\\PC\\Documents\\GitHub\\GOODBYE_Oxygen\\GOODBYE_Oxygen\\Patches.cs",
               "RelativeDocumentMoniker": "GOODBYE_Oxygen\\Patches.cs",
               "ToolTip": "C:\\Users\\PC\\Documents\\GitHub\\GOODBYE_Oxygen\\GOODBYE_Oxygen\\Patches.cs",
               "RelativeToolTip": "GOODBYE_Oxygen\\Patches.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE4AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABQAAAAAAAAAAAAwwDEAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-10T17:02:07.963Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Settings.cs",
               "DocumentMoniker": "C:\\Users\\PC\\Documents\\GitHub\\GOODBYE_Oxygen\\GOODBYE_Oxygen\\Settings.cs",
               "RelativeDocumentMoniker": "GOODBYE_Oxygen\\Settings.cs",
